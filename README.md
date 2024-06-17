@@ -8,7 +8,7 @@ Habilidades: JAVA ASO/APX CELLS SYMPHONY / REACT / PHP / PYTHON / JS / HTML / CS
 - 🌱 Estoy aprendiendo Spring  Spring Boot 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JUANAN2019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/juan-agg/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JUANAN2019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juan-agg/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANAN2019)](https://github.com/anuraghazra/github-readme-stats)
 
